@@ -1,0 +1,19 @@
+{
+  "name": "webdev-project-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for our CS5610: Web Dev Summer Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranitb10/webdev-project-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranitb10/webdev-project-frontend/issues"
+  },
+  "homepage": "https://github.com/pranitb10/webdev-project-frontend#readme"
+}
